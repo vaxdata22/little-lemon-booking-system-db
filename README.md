@@ -36,14 +36,14 @@ The project includes the following items:
 
 ## Further notes
 
-* The [Python client for MySQL connection](https://github.com/vaxdata22/little-lemon-db/blob/main/The%20Database%20and%20Reporting/python_client.ipynb) as well as the [database creation file](https://github.com/vaxdata22/little-lemon-db/blob/main/The%20Database%20and%20Reporting/little_lemon_db_creation.sql) are in [The Database and Reporting folder.](https://github.com/vaxdata22/little-lemon-db/tree/main/The%20Database%20and%20Reporting)
+* The [Python client for MySQL connection](The-Database-and-Reporting/python_client.ipynb) as well as the [database creation file](The-Database-and-Reporting/little_lemon_db_creation.sql) are in [The Database and Reporting folder.](The-Database-and-Reporting)
 
-* Results of queries, stored procedures, subqueries, and joins are in the [MySQL Workbench Screenshots folder.](https://github.com/vaxdata22/little-lemon-db/tree/main/MySQL%20Workbench%20Screenshots)
+* Results of queries, stored procedures, subqueries, and joins are in the [MySQL Workbench Screenshots folder.](MySQL-Workbench-Screenshots)
 
-* Tableau visualization data and visual reporting pictures are in the [Tableau Desktop Screenshots folder.](https://github.com/vaxdata22/little-lemon-db/tree/main/Tableau%20Desktop%20Screenshots)
+* Tableau visualization data and visual reporting pictures are in the [Tableau Desktop Screenshots folder.](Tableau-Desktop-Screenshots)
 
-* The file [little_lemon_db_creation.sql](https://github.com/vaxdata22/little-lemon-db/blob/main/The%20Database%20and%20Reporting/little_lemon_db_creation.sql) is an SQL file for the LittleLemonDB database implementation.
+* The file [little_lemon_db_creation.sql](The-Database-and-Reporting/little_lemon_db_creation.sql) is an SQL file for the LittleLemonDB database implementation.
 
-* This [lemon_db_creation.sql](https://github.com/vaxdata22/little-lemon-db/blob/main/The%20Database%20and%20Reporting/little_lemon_db_creation.sql) file also contains Triggers and Stored Procedures for the database.
+* This [lemon_db_creation.sql](The-Database-and-Reporting/little_lemon_db_creation.sql) file also contains Triggers and Stored Procedures for the database.
 
-* I've also included a [Tableau Desktop Workbook file](https://github.com/vaxdata22/little-lemon-db/blob/main/The%20Database%20and%20Reporting/little_lemon_workbook.twbx) in [The Database and Reporting folder.](https://github.com/vaxdata22/little-lemon-db/tree/main/The%20Database%20and%20Reporting)
+* I've also included a [Tableau Desktop Workbook file](The-Database-and-Reporting/little_lemon_workbook.twbx) in [The Database and Reporting folder.](The-Database-and-Reporting)
